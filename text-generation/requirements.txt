@@ -1,0 +1,8 @@
+regex
+tensorboard
+sentencepiece
+datasets==2.14.7
+evaluate==0.4.1
+transformers==4.36.2
+git+https://github.com/huggingface/optimum-neuron.git
+https://pip.repos.neuron.amazonaws.com/neuronx-distributed/neuronx_distributed-0.6.0-py3-none-linux_x86_64.whl
