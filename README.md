@@ -1,8 +1,3 @@
-It appears that the repository you shared is focused on a workshop involving Hugging Face Neuron and AWS SageMaker, particularly with examples on fine-tuning models like TinyLlama and running inference with Mistral. To provide an organized **README.md**, I will outline the structure based on the files present and their likely use cases.
-
-### Draft README.md
-
-```markdown
 # Hugging Face Neuron on SageMaker Workshop 2024
 
 ## Overview
